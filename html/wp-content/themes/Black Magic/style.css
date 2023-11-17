@@ -14,3 +14,14 @@ Text Domain: Black Magic
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
+h1 {
+    color: purple;
+    }
+p {
+     font-family: Georgia;
+     font-size: 20px;
+ }
+ .widget {
+    background: #B9EBFA;
+    padding: 25px;
+    }
